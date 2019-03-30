@@ -12979,5 +12979,16 @@
     "description": "Macro for building OOP class hierarchies based on closure methods.",
     "license": "MIT",
     "web": "https://github.com/bluenote10/closure_methods"
+  },
+  {
+    "name": "nimly",
+    "url": "https://github.com/loloiccl/nimly",
+    "method": "git",
+    "tags": [
+      "v0.0.0"
+    ],
+    "description": "A lexer generator and parser generator package work in Nim.",
+    "license": "GPL-3.0",
+    "web": "https://github.com/loloiccl/nimly"
   }
 ]
